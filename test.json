@@ -1,10 +1,14 @@
 {
+  
+  "admob_banner":"ca-app-pub-3940256099942544/6300978111",
+	"admob_inter":"ca-app-pub-3940256099942544/1033173712",
 
-"TEXT1" : "",
-"TEXT2" : "",
+	"APP_KEY": "1419096d9",
+	"BANNER_PLACEMENT": "DefaultBanner",
+	"INTERSTITIAL_PLACEMENT": "DefaultInterstitial",
 
-"BUTTON_NAME1" : "Hello APP",
-"BUTTON_NAME2" : "",
-
-
+  "whichAds": 0,
+  
+  "isAdsActivated1":true,
+	"isAdsActivated2":false
 }
