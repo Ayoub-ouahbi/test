@@ -3,12 +3,8 @@
   "admob_banner":"ca-app-pub-3940256099942544/6300978111",
 	"admob_inter":"ca-app-pub-3940256099942544/1033173712",
 
-	"APP_KEY": "1419096d9",
+	"APP_KEY": "14449ee51",
 	"BANNER_PLACEMENT": "DefaultBanner",
 	"INTERSTITIAL_PLACEMENT": "DefaultInterstitial",
 
-  "whichAds": 0,
-  
-  "isAdsActivated1":true,
-	"isAdsActivated2":false
 }
